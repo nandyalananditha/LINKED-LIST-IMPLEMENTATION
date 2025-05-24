@@ -72,3 +72,7 @@ Each step is validated using the `traverse()` function, which prints the current
  Conclusion:
 
 This project is a complete, functional demonstration of how a singly linked list operates. It combines theoretical knowledge with practical coding skills, making it an ideal mini-project for internships, academic submissions, or personal learning. By implementing and testing core list operations, this project strengthens the student’s understanding of fundamental data structures and equips them with the confidence to tackle more advanced programming challenges.
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/ef85b996-41f7-4f9a-85ca-eb94bf386710)
