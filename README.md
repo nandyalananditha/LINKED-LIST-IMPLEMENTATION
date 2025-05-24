@@ -59,9 +59,7 @@ This function removes a node with a given value from the list. It manages three 
 
 This function prints all elements in the list from the head to the last node, ending with `NULL` to indicate the end of the list.
 
----
-
-### 📈 Sample Execution Flow:
+Sample Execution Flow:
 
 1. Insert 10 → List: `10`
 2. Insert 20 → List: `10 -> 20`
